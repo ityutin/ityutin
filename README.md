@@ -1,6 +1,6 @@
 ### 🖖 Hi, I'm Ilya Tyutin
 
-I love building useful tools and products. Currently, I work as a Data Scientist at Wrike, helping users be more productive at work.
+I love building useful tools and products. Currently, I work as a Data Scientist at Wrike, helping people be more productive at work.
 
 Some projects that I develop and use daily:
 
